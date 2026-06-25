@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.1.0/EmbeAssistant.apk",
+  "releaseNotes": "Vietnamese language support\n\n• Full UI translation to Tiếng Việt\n• Language picker in Settings → Language"
+}
