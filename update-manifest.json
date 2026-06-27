@@ -1,6 +1,6 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.2.1",
-    "apkUrl":  "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.2.1/EmbeAssistant.apk",
-    "releaseNotes":  "Test release notes"
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.2.3/EmbeAssistant.apk",
+  "releaseNotes": "Markdown formatting in chat (bold, headers, etc.)"
 }
