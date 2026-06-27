@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.3.1/EmbeAssistant.apk",
-  "releaseNotes": "Fix OTA updates + Check for updates button in Settings"
+  "versionCode": 10,
+  "versionName": "1.3.3",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.3.3/EmbeAssistant.apk",
+  "releaseNotes": "Fix update check HTTP 404 (GitHub blocked xAI auth headers)"
 }
