@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.4.0/EmbeAssistant.apk",
-  "releaseNotes": "Voice input (mic) + read-aloud replies. Test OTA auto-update."
+  "versionCode": 15,
+  "versionName": "1.5.2",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.5.2/EmbeAssistant.apk",
+  "releaseNotes": "Read-aloud skips URLs and source links from web search"
 }
