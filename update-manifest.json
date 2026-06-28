@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.5.2",
-  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.5.2/EmbeAssistant.apk",
-  "releaseNotes": "Read-aloud skips URLs and source links from web search"
+  "versionCode": 32,
+  "versionName": "1.8.2",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.8.2/EmbeAssistant.apk",
+  "releaseNotes": "Live web and X search always enabled (removed Settings toggles)"
 }
