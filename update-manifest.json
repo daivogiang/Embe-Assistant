@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.8.2",
-  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.8.2/EmbeAssistant.apk",
-  "releaseNotes": "Live web and X search always enabled (removed Settings toggles)"
+  "versionCode": 34,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.9.1/EmbeAssistant.apk",
+  "releaseNotes": "Gemini provider with Grok/Gemini toggle; full provider isolation for chat and images; Gemini API key override in Settings; voice stop button and improved Vietnamese speech; fixed false image generation on normal questions"
 }
