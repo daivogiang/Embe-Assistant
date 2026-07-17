@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.9.2",
-  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.9.2/EmbeAssistant.apk",
-  "releaseNotes": "Gemini: use flash-latest for new API keys; auto-upgrade blocked 2.5-flash; more reliable chat (no empty replies from thinking/search). Settings list includes latest free-tier models."
+  "versionCode": 36,
+  "versionName": "1.9.3",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.9.3/EmbeAssistant.apk",
+  "releaseNotes": "Grok models: Grok 4.5 (default), 4.3, 4.20. Attach documents like official Grok chat: PDF, Word, Excel, PowerPoint, text, code, CSV, JSON. Retired Grok 3 IDs auto-upgrade. Document button in chat next to photo and audio."
 }
