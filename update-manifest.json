@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.9.5",
-  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.9.5/EmbeAssistant.apk",
-  "releaseNotes": "Embe account: same login/signup as the website, chat history sync. Web URL baked in. Grok/Gemini keys stay on the phone. Cleaner Settings UI."
+  "versionCode": 40,
+  "versionName": "1.9.7",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.9.7/EmbeAssistant.apk",
+  "releaseNotes": "Grok-style full-width chat, markdown tables with copy/CSV, code blocks, clickable sources. Pin chats (syncs with web). Embe account login/signup."
 }
