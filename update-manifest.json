@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.9.3",
-  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.9.3/EmbeAssistant.apk",
-  "releaseNotes": "Grok models: Grok 4.5 (default), 4.3, 4.20. Attach documents like official Grok chat: PDF, Word, Excel, PowerPoint, text, code, CSV, JSON. Retired Grok 3 IDs auto-upgrade. Document button in chat next to photo and audio."
+  "versionCode": 37,
+  "versionName": "1.9.4",
+  "apkUrl": "https://github.com/daivogiang/Embe-Assistant/releases/download/v1.9.4/EmbeAssistant.apk",
+  "releaseNotes": "Cloud chat sync: log in with the same Embe web username to share conversation history. Grok and Gemini API keys stay on the phone only. Large PDFs still use on-device upload."
 }
